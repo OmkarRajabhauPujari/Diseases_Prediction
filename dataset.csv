@@ -1,0 +1,110 @@
+itching,skin_rash,headache,high_fever,cough,fatigue,nausea,vomiting,loss_of_appetite,prognosis
+1,1,0,0,0,0,0,0,0,Fungal infection
+1,1,1,0,0,1,0,0,0,Fungal infection
+1,1,0,0,0,1,0,0,0,Fungal infection
+1,1,1,0,0,0,0,0,0,Fungal infection
+0,1,0,0,1,0,0,0,0,Allergy
+0,1,1,0,1,1,0,0,0,Allergy
+0,1,0,0,1,1,0,0,0,Allergy
+0,1,1,0,1,0,0,0,0,Allergy
+0,0,1,1,1,1,1,0,1,Flu
+0,0,1,1,1,1,1,1,1,Flu
+0,0,1,1,1,0,1,1,1,Flu
+0,0,1,1,1,1,0,0,1,Flu
+0,0,1,0,0,1,0,0,1,Migraine
+0,0,1,0,0,1,0,0,0,Migraine
+0,0,1,0,0,0,0,0,1,Migraine
+0,0,1,0,0,1,0,0,0,Migraine
+0,0,0,1,1,1,1,1,1,Dengue
+0,0,0,1,1,1,1,0,1,Dengue
+0,0,0,1,1,1,0,1,1,Dengue
+0,0,0,1,1,1,1,1,0,Dengue
+0,0,1,0,1,1,0,0,0,Common Cold
+0,0,0,0,1,0,0,0,0,Common Cold
+0,0,1,0,1,0,0,0,0,Common Cold
+0,0,0,0,1,1,0,0,0,Common Cold
+1,0,0,1,1,1,0,0,1,Typhoid
+1,0,0,1,1,1,1,0,1,Typhoid
+1,0,0,1,1,0,1,0,1,Typhoid
+1,0,0,1,1,1,0,0,0,Typhoid
+0,1,1,1,0,1,0,0,0,Chickenpox
+0,1,1,1,0,1,0,1,0,Chickenpox
+0,1,1,1,0,0,0,1,0,Chickenpox
+0,1,1,1,0,1,0,0,1,Chickenpox
+0,0,0,1,1,0,0,0,0,Malaria
+0,0,0,1,1,0,1,0,0,Malaria
+0,0,0,1,1,0,0,1,0,Malaria
+0,0,0,1,1,0,1,0,1,Malaria
+1,1,1,0,0,0,0,0,0,Eczema
+1,1,0,0,0,1,0,0,0,Eczema
+1,1,1,0,0,0,0,1,0,Eczema
+1,1,0,0,0,1,0,0,1,Eczema
+1,1,0,0,0,0,0,0,0,Fungal infection
+0,1,0,0,1,0,0,0,0,Allergy
+0,0,1,1,1,1,1,0,1,Flu
+0,0,1,0,0,1,0,0,1,Migraine
+0,0,0,1,1,1,1,1,1,Dengue
+0,0,1,0,1,1,0,0,0,Common Cold
+1,0,0,1,1,1,0,0,1,Typhoid
+0,1,1,1,0,1,0,0,0,Chickenpox
+0,0,0,1,1,0,0,0,0,Malaria
+1,1,1,0,0,0,0,0,0,Eczema
+1,1,0,0,0,1,0,0,0,Fungal infection
+0,1,1,0,1,1,0,0,0,Allergy
+0,0,1,1,1,1,1,1,1,Flu
+0,0,1,0,0,1,0,0,0,Migraine
+0,0,0,1,1,1,1,0,1,Dengue
+0,0,0,0,1,0,0,0,0,Common Cold
+1,0,0,1,1,1,1,0,1,Typhoid
+0,1,1,1,0,1,0,1,0,Chickenpox
+0,0,0,1,1,0,1,0,0,Malaria
+1,1,0,0,0,1,0,0,0,Eczema
+1,1,0,0,0,0,0,0,0,Fungal infection
+1,1,1,0,0,1,0,0,0,Fungal infection
+1,1,0,0,0,1,0,0,0,Fungal infection
+1,1,1,0,0,0,0,0,0,Fungal infection
+0,1,0,0,1,0,0,0,0,Allergy
+0,1,1,0,1,1,0,0,0,Allergy
+0,1,0,0,1,1,0,0,0,Allergy
+0,1,1,0,1,0,0,0,0,Allergy
+0,0,1,1,1,1,1,0,1,Flu
+0,0,1,1,1,1,1,1,1,Flu
+0,0,1,1,1,0,1,1,1,Flu
+0,0,1,1,1,1,0,0,1,Flu
+0,0,1,0,0,1,0,0,1,Migraine
+0,0,1,0,0,1,0,0,0,Migraine
+0,0,1,0,0,0,0,0,1,Migraine
+0,0,1,0,0,1,0,0,0,Migraine
+0,0,0,1,1,1,1,1,1,Dengue
+0,0,0,1,1,1,1,0,1,Dengue
+0,0,0,1,1,1,0,1,1,Dengue
+0,0,0,1,1,1,1,1,0,Dengue
+0,0,1,0,1,1,0,0,0,Common Cold
+0,0,0,0,1,0,0,0,0,Common Cold
+0,0,1,0,1,0,0,0,0,Common Cold
+0,0,0,0,1,1,0,0,0,Common Cold
+1,0,0,1,1,1,0,0,1,Typhoid
+1,0,0,1,1,1,1,0,1,Typhoid
+1,0,0,1,1,0,1,0,1,Typhoid
+1,0,0,1,1,1,0,0,0,Typhoid
+0,1,1,1,0,1,0,0,0,Chickenpox
+0,1,1,1,0,1,0,1,0,Chickenpox
+1,1,0,0,0,0,0,0,0,Fungal infection
+1,1,1,0,0,1,0,0,0,Fungal infection
+1,1,0,0,0,1,0,0,0,Fungal infection
+1,1,1,0,0,0,0,0,0,Fungal infection
+0,1,0,0,1,0,0,0,0,Allergy
+0,1,1,0,1,1,0,0,0,Allergy
+0,1,0,0,1,1,0,0,0,Allergy
+0,1,1,0,1,0,0,0,0,Allergy
+0,0,1,1,1,1,1,0,1,Flu
+0,0,1,1,1,1,1,1,1,Flu
+0,0,1,1,1,0,1,1,1,Flu
+0,0,1,1,1,1,0,0,1,Flu
+0,0,1,0,0,1,0,0,1,Migraine
+0,0,1,0,0,1,0,0,0,Migraine
+0,0,1,0,0,0,0,0,1,Migraine
+0,0,1,0,0,1,0,0,0,Migraine
+0,0,0,1,1,1,1,1,1,Dengue
+0,0,0,1,1,1,1,0,1,Dengue
+0,0,0,1,1,1,0,1,1,Dengue
